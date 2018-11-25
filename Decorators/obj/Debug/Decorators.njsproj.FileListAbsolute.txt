@@ -1,0 +1,3 @@
+D:\Typescript\Decorators\obj\Debug\Decorators.njsprojAssemblyReference.cache
+D:\Typescript\Decorators\obj\Debug\Decorators.njsproj.CoreCompileInputs.cache
+D:\Typescript\Decorators\bin\Microsoft.NodejsTools.WebRole.dll
