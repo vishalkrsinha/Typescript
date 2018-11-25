@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Javascript libraries</title>
+</head>
+<body>
+    <div id="app">Change it with jQuery</div>
+    <script>
+        // set our baseURL reference path
+        SystemJS.config({
+            map: {
+                "jQuery": "node_modules/@types/systemjs/index.d.ts"
+            },
+            baseURL: '/',
+            defaultJSExtensions: true
+        });
+        SystemJS.import('app.js');
+    </script>
+</body>
+</html>

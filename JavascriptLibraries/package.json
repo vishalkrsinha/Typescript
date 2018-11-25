@@ -1,0 +1,12 @@
+{
+  "name": "JavascriptLibraries",
+  "version": "0.0.0",
+  "description": "JavascriptLibraries",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "@types/systemjs": "^0.20.6",
+    "jquery": "^3.3.1"
+  }
+}
