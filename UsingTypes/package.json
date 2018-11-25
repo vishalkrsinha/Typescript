@@ -1,0 +1,11 @@
+{
+  "name": "UsingTypes",
+  "version": "0.0.0",
+  "description": "UsingTypes",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
