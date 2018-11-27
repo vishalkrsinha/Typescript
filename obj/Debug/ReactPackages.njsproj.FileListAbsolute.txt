@@ -1,0 +1,3 @@
+D:\Typescript\ReactPackages\obj\Debug\ReactPackages.njsprojAssemblyReference.cache
+D:\Typescript\ReactPackages\obj\Debug\ReactPackages.njsproj.CoreCompileInputs.cache
+D:\Typescript\ReactPackages\bin\Microsoft.NodejsTools.WebRole.dll
